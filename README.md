@@ -25,8 +25,6 @@ Most of my work revolves around embedded firmware, system design, and figuring o
 - **Dev:** Git, VS Code, PlatformIO, Linux  
 - **Other:** Node.js, basic web tooling, CI familiarity
 
----
-
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akoushik23/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/koushik_xdd/)
