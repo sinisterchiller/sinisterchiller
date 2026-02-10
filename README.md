@@ -22,7 +22,7 @@ Most of my work revolves around embedded firmware, system design, and figuring o
 ## Tools & Tech
 - **Languages:** C, C++, Python, JavaScript  
 - **Embedded:** ESP32-S3, ESP-IDF, Arduino, AVR  
-- **Dev:** Git, VS Code, PlatformIO, Linux  
+- **Dev:** Git, VS Code, ESP-IDF, PlatformIO, Linux  
 - **Other:** Node.js, basic web tooling, CI familiarity
 
 ## 📫 Get in touch
