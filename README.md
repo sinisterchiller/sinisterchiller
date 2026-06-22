@@ -1,6 +1,6 @@
 # Hi, I'm Anurag 👋
 
-🎓 Engineering student  
+🎓 Electrical Engineering student  
 🔧 Embedded systems | ESP32 | C/C++  
 📡 Hardware–software integration | Systems thinking  
 
